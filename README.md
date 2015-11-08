@@ -7,7 +7,7 @@ Basic Mailbox gesture, including:
 - replace icons based on x position of swipe
 - trigger either later or list modal depending on x position of swipe
 
-![alt tag] (https://raw.githubusercontent.com/alexnako/Mailbox/master/screenshots/mailbox-basic.gif)
+![alt tag] (https://raw.githubusercontent.com/alexnako/Mailbox/master/screengrabs/mailbox-basic.gif)
 
 Time spent: 7 hours
 
