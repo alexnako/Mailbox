@@ -1,14 +1,14 @@
 # Mailox
-CodePath week 3 assignment
-https://courses.codepath.com/courses/ios_for_designers/unit/3#!exercises
+Code Path Week 3
+https://courses.codepath.com/courses/ios_for_designers/unit/3#!assignment
 
-Basics implemented
-- tray up and down (with arrow matching direction)
-- create new faces from tray by dragging into stage
-- pan new faces on stage (scale during pan
+Basic Mailbox gesture, including:
+- chance background colour and icon opacity
+- replace icons based on x position of swipe
+- trigger either later or list modal depending on x position of swipe
 
-![alt tag] (https://raw.githubusercontent.com/alexnako/Canvas/master/screengrabs/canvas-basics.gif)
+![alt tag] (https://raw.githubusercontent.com/alexnako/Mailbox/master/screengrabs/mailbox-basic.gif)
 
-Time spent: 3 hours
+Time spent: 7 hours
 
-NOTE: Add optionals
+NOTE: Add optionals and look indo how to optimise conditional rules, seems a bit convoluted 
